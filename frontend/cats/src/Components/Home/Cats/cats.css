@@ -1,0 +1,11 @@
+.imgGato{
+    width: 30%;
+    height: max-content;
+}
+
+.divGatos, .divBotones{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 50px 0px 50px 0px;
+}
